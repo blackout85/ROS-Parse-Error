@@ -1,0 +1,9 @@
+CMake Error at beginner_tutorials/CMakeLists.txt:12:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "setup.py".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/turk/catkin_ws/build/CMakeFiles/CMakeOutput.log".
+See also "/home/turk/catkin_ws/build/CMakeFiles/CMakeError.log".
+make: *** [Makefile:530: cmake_check_build_system] Error 1
